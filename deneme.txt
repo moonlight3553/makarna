@@ -1,0 +1,5 @@
+kullanıcı adı: mesut
+şifre:abcdef
+
+
+Hash   abcdef -> aslkdjaslhdalkudaskjdhaskjashd
